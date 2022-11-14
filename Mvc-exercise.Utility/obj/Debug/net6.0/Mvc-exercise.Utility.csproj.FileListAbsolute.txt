@@ -1,0 +1,12 @@
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.Utility/bin/Debug/net6.0/Mvc-exercise.Utility.deps.json
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.Utility/bin/Debug/net6.0/Mvc-exercise.Utility.dll
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.Utility/bin/Debug/net6.0/Mvc-exercise.Utility.pdb
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.Utility/obj/Debug/net6.0/Mvc-exercise.Utility.csproj.AssemblyReference.cache
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.Utility/obj/Debug/net6.0/Mvc-exercise.Utility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.Utility/obj/Debug/net6.0/Mvc-exercise.Utility.AssemblyInfoInputs.cache
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.Utility/obj/Debug/net6.0/Mvc-exercise.Utility.AssemblyInfo.cs
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.Utility/obj/Debug/net6.0/Mvc-exercise.Utility.csproj.CoreCompileInputs.cache
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.Utility/obj/Debug/net6.0/Mvc-exercise.Utility.dll
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.Utility/obj/Debug/net6.0/refint/Mvc-exercise.Utility.dll
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.Utility/obj/Debug/net6.0/Mvc-exercise.Utility.pdb
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.Utility/obj/Debug/net6.0/ref/Mvc-exercise.Utility.dll

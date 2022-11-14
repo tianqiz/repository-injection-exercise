@@ -1,0 +1,17 @@
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.DataAccess/obj/Debug/net6.0/Mvc-exercise.DataAccess.csproj.AssemblyReference.cache
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.DataAccess/obj/Debug/net6.0/Mvc-exercise.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.DataAccess/obj/Debug/net6.0/Mvc-exercise.DataAccess.AssemblyInfoInputs.cache
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.DataAccess/obj/Debug/net6.0/Mvc-exercise.DataAccess.AssemblyInfo.cs
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.DataAccess/obj/Debug/net6.0/Mvc-exercise.DataAccess.csproj.CoreCompileInputs.cache
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.DataAccess/bin/Debug/net6.0/Mvc-exercise.DataAccess.deps.json
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.DataAccess/bin/Debug/net6.0/Mvc-exercise.DataAccess.runtimeconfig.json
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.DataAccess/bin/Debug/net6.0/Mvc-exercise.DataAccess.dll
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.DataAccess/bin/Debug/net6.0/Mvc-exercise.DataAccess.pdb
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.DataAccess/bin/Debug/net6.0/Mvc-exercise.Models.dll
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.DataAccess/bin/Debug/net6.0/Mvc-exercise.Models.pdb
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.DataAccess/obj/Debug/net6.0/Mvc-exercise.DataAccess.csproj.CopyComplete
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.DataAccess/obj/Debug/net6.0/Mvc-exercise.DataAccess.dll
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.DataAccess/obj/Debug/net6.0/refint/Mvc-exercise.DataAccess.dll
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.DataAccess/obj/Debug/net6.0/Mvc-exercise.DataAccess.pdb
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.DataAccess/obj/Debug/net6.0/Mvc-exercise.DataAccess.genruntimeconfig.cache
+/Users/neil/Desktop/dotnet6-exercise/Mvc-exercise.DataAccess/obj/Debug/net6.0/ref/Mvc-exercise.DataAccess.dll

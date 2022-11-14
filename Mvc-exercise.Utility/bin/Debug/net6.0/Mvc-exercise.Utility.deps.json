@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mvc-exercise.Utility/1.0.0": {
+        "runtime": {
+          "Mvc-exercise.Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mvc-exercise.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
