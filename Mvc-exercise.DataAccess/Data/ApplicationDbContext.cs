@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using mvc_exercise.Models;
+using Mvc_exercise.Models;
 
 namespace Mvc_exercise.DataAccess
 {
@@ -11,5 +11,6 @@ namespace Mvc_exercise.DataAccess
         }
 
         public DbSet<Category> Categories { get; set; }
+        public DbSet<CoverType> CoverTypes { get; set; }
     }
 }

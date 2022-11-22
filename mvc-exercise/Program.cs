@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using mvc_exercise.Models;
 using Mvc_exercise.DataAccess;
 using Mvc_exercise.DataAccess.Repository;
 using Mvc_exercise.DataAccess.Repository.IRepository;

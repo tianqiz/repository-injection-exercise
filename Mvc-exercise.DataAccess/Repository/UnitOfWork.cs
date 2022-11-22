@@ -10,10 +10,11 @@ namespace Mvc_exercise.DataAccess.Repository
         {
             dbContext = _db;
             Category = new CategoryRepository(dbContext);
+            CoverType = new CoverTypeRepository(dbContext);
         }
 
         public ICategoryRepository Category { get; private set; }
-
+        public ICoverTypeRepository CoverType { get; private set; }
         public void Save()
         {
             dbContext.SaveChanges();

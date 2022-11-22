@@ -1,4 +1,4 @@
-using mvc_exercise.Models;
+using Mvc_exercise.Models;
 
 namespace Mvc_exercise.DataAccess.Repository.IRepository
 {

@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using mvc_exercise.Models;
 using Mvc_exercise.DataAccess;
 using Mvc_exercise.DataAccess.Repository.IRepository;
+using Mvc_exercise.Models;
 
 namespace mvc_exercise.Controllers
 {

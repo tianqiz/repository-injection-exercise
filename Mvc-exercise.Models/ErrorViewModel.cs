@@ -1,4 +1,4 @@
-namespace mvc_exercise.Models;
+namespace Mvc_exercise.Models;
 
 public class ErrorViewModel
 {
