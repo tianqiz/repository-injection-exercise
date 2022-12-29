@@ -5,18 +5,19 @@ using Mvc_exercise.Models;
 
 namespace mvc_exercise.Controllers
 {
-    public class CategoryController : Controller
+    [Area("Admin")]
+    public class CoverTypeController : Controller
     {
         private readonly IUnitOfWork unitOfWork;
 
-        public CategoryController(IUnitOfWork unitOfWork)
+        public CoverTypeController(IUnitOfWork unitOfWork)
         {
             this.unitOfWork = unitOfWork;
         }
         public IActionResult Index()
         {
-            IEnumerable<Category> objCategoryList = unitOfWork.Category.GetAll();
-            return View(objCategoryList);
+            IEnumerable<CoverType> objCoverTypeList = unitOfWork.CoverType.GetAll();
+            return View(objCoverTypeList);
         }
 
         public IActionResult Create()
@@ -26,17 +27,13 @@ namespace mvc_exercise.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(Category obj)
+        public IActionResult Create(CoverType obj)
         {
-            if(obj.DisplayOrder.ToString() == obj.Name)
-            {
-                ModelState.AddModelError("Name", "DisplayOrder cannot be equal to name");
-            }
             if (ModelState.IsValid)
             {
-                unitOfWork.Category.Add(obj);
+                unitOfWork.CoverType.Add(obj);
                 unitOfWork.Save();
-                TempData["success"] = "Category created successfully";
+                TempData["success"] = "CoverType created successfully";
                 return RedirectToAction("Index");                
             }
             return View(obj);
@@ -48,26 +45,22 @@ namespace mvc_exercise.Controllers
             {
                 return NotFound();
             }
-            var category = unitOfWork.Category.GetFirstOrDeFault(u => u.Id == id);
+            var coverType = unitOfWork.CoverType.GetFirstOrDeFault(u => u.Id == id);
 
-            if (category == null)
+            if (coverType == null)
             {
                 return NotFound();
             }
-            return View(category);
+            return View(coverType);
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(Category obj)
+        public IActionResult Edit(CoverType obj)
         {
-            if(obj.DisplayOrder.ToString() == obj.Name)
-            {
-                ModelState.AddModelError("Name", "DisplayOrder cannot be equal to name");
-            }
             if (ModelState.IsValid)
             {
-                unitOfWork.Category.Update(obj);
+                unitOfWork.CoverType.Update(obj);
                 unitOfWork.Save();
                 return RedirectToAction("Index");                
             }
@@ -80,24 +73,24 @@ namespace mvc_exercise.Controllers
             {
                 return NotFound();
             }
-            var category = unitOfWork.Category.GetFirstOrDeFault(u => u.Id == id);
+            var coverType = unitOfWork.CoverType.GetFirstOrDeFault(u => u.Id == id);
 
-            if (category == null)
+            if (coverType == null)
             {
                 return NotFound();
             }
-            return View(category);
+            return View(coverType);
         }
 
         [HttpPost,ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public IActionResult DeletePost(int? id)
         {
-            var obj = unitOfWork.Category.GetFirstOrDeFault(u => u.Id == id);
+            var obj = unitOfWork.CoverType.GetFirstOrDeFault(u => u.Id == id);
             if (obj == null) {
                 return NotFound();
             }
-            unitOfWork.Category.Remove(obj);
+            unitOfWork.CoverType.Remove(obj);
             unitOfWork.Save();
             return RedirectToAction("Index");                
         }

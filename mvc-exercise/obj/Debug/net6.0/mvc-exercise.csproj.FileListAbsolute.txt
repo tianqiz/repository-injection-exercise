@@ -359,3 +359,9 @@
 /Users/neil/Desktop/dotnet6-exercise/mvc-exercise/bin/Debug/net6.0/Mvc-exercise.Models.dll
 /Users/neil/Desktop/dotnet6-exercise/mvc-exercise/bin/Debug/net6.0/Mvc-exercise.Models.pdb
 /Users/neil/Desktop/dotnet6-exercise/mvc-exercise/bin/Debug/net6.0/Mvc-exercise.DataAccess.pdb
+/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/bin/Debug/net6.0/Microsoft.AspNetCore.Server.Kestrel.Https.dll
+/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/bin/Debug/net6.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/bin/Debug/net6.0/System.Security.Permissions.dll
