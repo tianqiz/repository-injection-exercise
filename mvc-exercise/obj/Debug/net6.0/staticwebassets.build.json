@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vCS6OZRNt/CwgLs8ViLfvTTh+MHBPEmGatuKozER7wQ=",
+  "Hash": "HqE5UPJGgTqiRz3m2MtMdbZkMGyvUP7RtQz6ZnBY/k8=",
   "Source": "mvc-exercise",
   "BasePath": "_content/mvc-exercise",
   "Mode": "Default",
@@ -136,12 +136,12 @@
       "OriginalItemSpec": "wwwroot/images/.DS_Store"
     },
     {
-      "Identity": "/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/wwwroot/images/products/4b7331ec-86af-4df6-b626-5370e46672ee.jpeg",
+      "Identity": "/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/wwwroot/images/products/.DS_Store",
       "SourceId": "mvc-exercise",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/wwwroot/",
       "BasePath": "_content/mvc-exercise",
-      "RelativePath": "images/products/4b7331ec-86af-4df6-b626-5370e46672ee.jpeg",
+      "RelativePath": "images/products/.DS_Store",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/products/4b7331ec-86af-4df6-b626-5370e46672ee.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/.DS_Store"
     },
     {
-      "Identity": "/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/wwwroot/images/products/541bfa2c-bd1d-4bf4-b591-65599854e485.jpeg",
+      "Identity": "/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/wwwroot/images/products/0b387e33-3f05-45ee-80c4-322ce7a4d374.jpg",
       "SourceId": "mvc-exercise",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/wwwroot/",
       "BasePath": "_content/mvc-exercise",
-      "RelativePath": "images/products/541bfa2c-bd1d-4bf4-b591-65599854e485.jpeg",
+      "RelativePath": "images/products/0b387e33-3f05-45ee-80c4-322ce7a4d374.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/products/541bfa2c-bd1d-4bf4-b591-65599854e485.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/0b387e33-3f05-45ee-80c4-322ce7a4d374.jpg"
     },
     {
-      "Identity": "/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/wwwroot/images/products/5ede1687-3542-43ca-ad56-462a2cf92fe0.jpeg",
+      "Identity": "/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/wwwroot/images/products/dfefee35-704c-489d-b4e4-78e13ef4d2af.jpg",
       "SourceId": "mvc-exercise",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/wwwroot/",
       "BasePath": "_content/mvc-exercise",
-      "RelativePath": "images/products/5ede1687-3542-43ca-ad56-462a2cf92fe0.jpeg",
+      "RelativePath": "images/products/dfefee35-704c-489d-b4e4-78e13ef4d2af.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,41 +184,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/products/5ede1687-3542-43ca-ad56-462a2cf92fe0.jpeg"
-    },
-    {
-      "Identity": "/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/wwwroot/images/products/c6c48059-a527-4a5e-82a7-846f9a0c41b8.jpeg",
-      "SourceId": "mvc-exercise",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/wwwroot/",
-      "BasePath": "_content/mvc-exercise",
-      "RelativePath": "images/products/c6c48059-a527-4a5e-82a7-846f9a0c41b8.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/products/c6c48059-a527-4a5e-82a7-846f9a0c41b8.jpeg"
-    },
-    {
-      "Identity": "/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/wwwroot/images/products/e4c8021b-5b9c-4574-9331-c15d07baf6c3.jpeg",
-      "SourceId": "mvc-exercise",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/wwwroot/",
-      "BasePath": "_content/mvc-exercise",
-      "RelativePath": "images/products/e4c8021b-5b9c-4574-9331-c15d07baf6c3.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/products/e4c8021b-5b9c-4574-9331-c15d07baf6c3.jpeg"
+      "OriginalItemSpec": "wwwroot/images/products/dfefee35-704c-489d-b4e4-78e13ef4d2af.jpg"
     },
     {
       "Identity": "/Users/neil/Desktop/dotnet6-exercise/mvc-exercise/wwwroot/js/product.js",
